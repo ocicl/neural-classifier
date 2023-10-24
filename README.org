@@ -2,9 +2,8 @@
 
 My attempt to write classification library based on neural networks.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/shamazmazum/neural-classifier.git   |
-| commit  | c44565a  |
-| systems | neural-classifier |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/shamazmazum/neural-classifier.git |
+| commit  | c13196c                                                  |
+| systems | neural-classifier                                        |
+|---------+----------------------------------------------------------|
