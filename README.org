@@ -4,6 +4,6 @@ My attempt to write classification library based on neural networks.
 
 |---------+----------------------------------------------------------|
 | source  | git:https://github.com/shamazmazum/neural-classifier.git |
-| commit  | c13196c                                                  |
+| commit  | d15225e                                                  |
 | systems | neural-classifier                                        |
 |---------+----------------------------------------------------------|
